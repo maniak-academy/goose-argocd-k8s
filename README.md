@@ -1,0 +1,1 @@
+# goose-argocd-k8s
